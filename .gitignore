@@ -1,0 +1,13 @@
+node_modules
+
+.tmp
+
+*.seed
+*.log
+*.out
+*.pid
+npm-debug.log
+
+.idea
+.node_history
+.DS_STORE

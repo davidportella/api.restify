@@ -1,0 +1,10 @@
+{
+  "name": "api.restify",
+  "version": "0.0.1",
+  "description": "API in restify",
+  "main": "index.js",
+  "author": "davidportella",
+  "dependencies": {
+    "restify": "~3.0.3"
+  }
+}
